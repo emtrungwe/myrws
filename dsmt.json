@@ -1,0 +1,511 @@
+{
+    "content": [
+        {
+            "id": "61c930ede36f211a89c2748d",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.342029454808442,
+                "longitude": 106.40576468939409
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2021-12-27T03:20:13.406+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Vàm Kỳ Hôn 2",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128291",
+                "address": "",
+                "fullPlace": "Xã Tân Mỹ Chánh, Thành phố Mỹ Tho, Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "61c930912ae2440e4a4e9245",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.342029454808442,
+                "longitude": 106.40576468939409
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2021-12-27T03:18:41.278+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Vàm Kỳ Hôn 1",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128291",
+                "address": "",
+                "fullPlace": "Xã Xã Tân Mỹ Chánh, Thành phố Thành phố Mỹ Tho, Tỉnh Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "61c9304b9bf0c2555c893557",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.3079411565449,
+                "longitude": 106.15125900212226
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2021-12-27T03:17:31.771+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Trạm Tam Bình 3",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128513",
+                "address": "",
+                "fullPlace": "Xã Xã Tam Bình, Huyện Huyện Cai Lậy, Tỉnh Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "61c92ff72ae2440e4a4e9244",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.3079411565449,
+                "longitude": 106.15125900212226
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2021-12-27T03:16:07.417+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Trạm Tam Bình 2",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128513",
+                "address": "",
+                "fullPlace": "Xã Xã Tam Bình, Huyện Huyện Cai Lậy, Tỉnh Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "61c92fa92cc8300fdc26c39a",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.3079411565449,
+                "longitude": 106.15125900212226
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2021-12-27T03:14:49.299+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Trạm Tam Bình 1",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128513",
+                "address": "",
+                "fullPlace": "Xã Xã Tam Bình, Huyện Huyện Cai Lậy, Tỉnh Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "609b424d723858697c73d8fa",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.314736549438,
+                "longitude": 106.44593911304
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2021-05-12T02:49:49.717+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Trạm Hòa Định",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128645",
+                "address": "",
+                "fullPlace": "Xã Hòa Định, Huyện Chợ Gạo, Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "60990333723858697c73d8f9",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.354811880888,
+                "longitude": 106.46532813597
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2021-05-10T09:56:03.736+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": null
+                        }
+                    ]
+                }
+            ],
+            "name": "Trạm Chợ Gạo",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128594",
+                "address": "",
+                "fullPlace": "Thị trấn Chợ Gạo, Huyện Chợ Gạo, Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "5fdda29006467273891605db",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.340295085698292,
+                "longitude": 106.30618767871051
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2020-12-19T09:37:41.304+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": "Trạm quan trắc"
+                        }
+                    ]
+                }
+            ],
+            "name": "Trạm cấp nước Bình Đức",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128579",
+                "address": "",
+                "fullPlace": "Xã Bình Đức, Huyện Châu Thành, Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "603372f22b2935ff6369d6b4",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.3482264151773,
+                "longitude": 106.385463270492
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2020-12-19T09:37:41.304+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": "Trạm quan trắc",
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": "Trạm quan trắc"
+                        }
+                    ]
+                }
+            ],
+            "name": "Trạm Vàm Tân Mỹ Chánh",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128291",
+                "address": "",
+                "fullPlace": "Phường 9, TP Mỹ Tho, Tiền Giang"
+            }
+        },
+        {
+            "id": "5ffd7e4f37d24f2f553677ac",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.3521663556276,
+                "longitude": 106.366349699625
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2020-12-19T09:37:41.304+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": "Trạm quan trắc"
+                        }
+                    ]
+                }
+            ],
+            "name": "Trạm Vườn hoa Lạc Hồng-P1",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128261",
+                "address": "",
+                "fullPlace": "Phường 1, Thành phố Mỹ Tho, Tỉnh Tiền Giang"
+            }
+        },
+        {
+            "id": "5e830f656425416dd5feae8e",
+            "thumbnail": "5fb623191048e008ac8617c2",
+            "location": {
+                "latitude": 10.3553499179306,
+                "longitude": 106.402148511261
+            },
+            "placeLevel": {
+                "id": "5ee304423167922ac55bea02",
+                "name": "Quận/Huyện"
+            },
+            "urlEncode": "",
+            "phoneNumber": "",
+            "email": "",
+            "website": "",
+            "description": null,
+            "geometry": null,
+            "color": null,
+            "ward": null,
+            "geojson": null,
+            "time": null,
+            "type": null,
+            "data": null,
+            "status": 1,
+            "createdDate": "2020-03-31T09:37:41.304+0000",
+            "tag": [
+                {
+                    "id": "0002591c4e1bd312a6f00001",
+                    "name": null,
+                    "category": [
+                        {
+                            "id": "5f3a491c4e1bd312a6f00025",
+                            "name": "Trạm quan trắc"
+                        }
+                    ]
+                }
+            ],
+            "name": "Công viên phần mềm Mekong",
+            "baPlace": {
+                "placeId": "5def47c5f47614018c128291",
+                "address": "ấp Phong Thuận",
+                "fullPlace": "Xã Tân Mỹ Chánh, Thành phố Mỹ Tho, Tỉnh Tiền Giang"
+            }
+        }
+    ],
+    "pageable": {
+        "sort": {
+            "unsorted": true,
+            "sorted": false,
+            "empty": true
+        },
+        "offset": 0,
+        "pageNumber": 0,
+        "pageSize": 20,
+        "unpaged": false,
+        "paged": true
+    },
+    "size": 20,
+    "number": 0,
+    "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+    },
+    "numberOfElements": 11,
+    "first": true,
+    "last": true,
+    "empty": false
+}
