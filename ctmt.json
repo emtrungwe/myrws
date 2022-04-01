@@ -1,0 +1,38 @@
+{
+    "stationId": "61c930ede36f211a89c2748d",
+    "data": [
+        {
+            "attributeId": "5b6962dd-3f90-4c93-8f61-eabfa4a803e2",
+            "attributeName": "Mực nước",
+            "attributeSymbol": "m",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "-0.28"
+        },
+        {
+            "attributeId": "e1d4ec80-7af7-11ea-827d-d13eea652a3f",
+            "attributeName": "Mô tả thời tiết",
+            "attributeSymbol": "",
+            "positionDisplay": 3,
+            "source": 0,
+            "value": "Mây thưa"
+        },
+        {
+            "attributeId": "8f735960-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "Thời tiết",
+            "attributeSymbol": "",
+            "positionDisplay": 1,
+            "source": 0,
+            "value": "61d0773114373e3dc3099414"
+        },
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "Chỉ số UV",
+            "attributeSymbol": "",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "13.0"
+        }
+    ],
+    "syncDate": "2022-02-22T07:15:14.457+0000"
+}
