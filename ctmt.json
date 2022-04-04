@@ -109,7 +109,7 @@
             "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
             "attributeName": "PM1",
             "attributeSymbol": "ug/m3",
-            "positionDisplay": 2,
+            "positionDisplay": 0,
             "source": 0,
             "value": "0"
         }
