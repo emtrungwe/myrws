@@ -18,6 +18,22 @@
             "value": "Nhiều mây"
         },
         {
+            "attributeId": "e1d4ec80-7af7-11ea-827d-d13eea652a3f",
+            "attributeName": "Gió",
+            "attributeSymbol": "m/s",
+            "positionDisplay": 4,
+            "source": 0,
+            "value": "4"
+        },
+        {
+            "attributeId": "e1d4ec80-7af7-11ea-827d-d13eea652a3f",
+            "attributeName": "Độ ẩm",
+            "attributeSymbol": "%",
+            "positionDisplay": 5,
+            "source": 0,
+            "value": "78"
+        },
+        {
             "attributeId": "8f735960-732f-11ea-8ae9-55d98b928b00",
             "attributeName": "Thời tiết",
             "attributeSymbol": "",
