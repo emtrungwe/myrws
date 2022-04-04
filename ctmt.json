@@ -2,14 +2,6 @@
     "stationId": "61c930ede36f211a89c2748d",
     "data": [
         {
-            "attributeId": "5b6962dd-3f90-4c93-8f61-eabfa4a803e2",
-            "attributeName": "Mực nước",
-            "attributeSymbol": "m",
-            "positionDisplay": 0,
-            "source": 0,
-            "value": "-0.28"
-        },
-        {
             "attributeId": "e1d4ec80-7af7-11ea-827d-d13eea652a3f",
             "attributeName": "Mô tả thời tiết",
             "attributeSymbol": "",
@@ -42,12 +34,84 @@
             "value": "624a7c7f5225946a61bced25"
         },
         {
-            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
-            "attributeName": "Chỉ số UV",
-            "attributeSymbol": "",
+            "attributeId": "5b6962dd-3f90-4c93-8f61-eabfa4a803e2",
+            "attributeName": "Áp suất không khí",
+            "attributeSymbol": "mBar",
             "positionDisplay": 0,
             "source": 0,
-            "value": "13.0"
+            "value": "1014"
+        },
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "Hướng gió",
+            "attributeSymbol": "DEG",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "67"
+        }
+                {
+            "attributeId": "5b6962dd-3f90-4c93-8f61-eabfa4a803e2",
+            "attributeName": "G-Radian",
+            "attributeSymbol": "W/m2",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "359"
+        },
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "NO2",
+            "attributeSymbol": "ug/m3",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "6"
+        }
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "PM2.5",
+            "attributeSymbol": "ug/m3",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "0"
+        },
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "PM10",
+            "attributeSymbol": "ug/m3",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "0"
+        }
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "TSP",
+            "attributeSymbol": "ug/m3",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "0"
+        }
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "03",
+            "attributeSymbol": "ug/m3",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "0"
+        },
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "SO2",
+            "attributeSymbol": "ug/m3",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "0"
+        },
+        {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "PM1",
+            "attributeSymbol": "ug/m3",
+            "positionDisplay": 0,
+            "source": 0,
+            "value": "0"
         }
     ],
     "syncDate": "2022-02-22T07:15:14.457+0000"
