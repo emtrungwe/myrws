@@ -48,8 +48,8 @@
             "positionDisplay": 0,
             "source": 0,
             "value": "67"
-        }
-                {
+        },
+        {
             "attributeId": "5b6962dd-3f90-4c93-8f61-eabfa4a803e2",
             "attributeName": "G-Radian",
             "attributeSymbol": "W/m2",
@@ -64,7 +64,7 @@
             "positionDisplay": 0,
             "source": 0,
             "value": "6"
-        }
+        },
         {
             "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
             "attributeName": "PM2.5",
@@ -80,7 +80,7 @@
             "positionDisplay": 0,
             "source": 0,
             "value": "0"
-        }
+        },
         {
             "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
             "attributeName": "TSP",
@@ -88,7 +88,7 @@
             "positionDisplay": 0,
             "source": 0,
             "value": "0"
-        }
+        },
         {
             "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
             "attributeName": "03",
