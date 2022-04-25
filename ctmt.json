@@ -10,6 +10,14 @@
             "value": "Nhiều mây"
         },
         {
+            "attributeId": "d9507f90-732f-11ea-8ae9-55d98b928b00",
+            "attributeName": "NO2",
+            "attributeSymbol": "°",
+            "positionDisplay": 2,
+            "source": 0,
+            "value": "31"
+        },
+        {
             "attributeId": "e1d4ec80-7af7-11ea-827d-d13eea652a3f",
             "attributeName": "Gió",
             "attributeSymbol": "m/s",
